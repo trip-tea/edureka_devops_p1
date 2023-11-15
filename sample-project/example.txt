@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, this is an updated sentence in branch1.
+=======
+Hello, this is an updated sentence in branch2.
+>>>>>>> b2
